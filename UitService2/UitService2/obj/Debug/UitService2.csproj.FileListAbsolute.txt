@@ -1,0 +1,8 @@
+C:\Users\sang\source\repos\UitService2\UitService2\bin\Debug\UitService2.exe.config
+C:\Users\sang\source\repos\UitService2\UitService2\bin\Debug\UitService2.exe
+C:\Users\sang\source\repos\UitService2\UitService2\bin\Debug\UitService2.pdb
+C:\Users\sang\source\repos\UitService2\UitService2\obj\Debug\UitService2.ProjectInstaller.resources
+C:\Users\sang\source\repos\UitService2\UitService2\obj\Debug\UitService2.csproj.GenerateResource.cache
+C:\Users\sang\source\repos\UitService2\UitService2\obj\Debug\UitService2.csproj.CoreCompileInputs.cache
+C:\Users\sang\source\repos\UitService2\UitService2\obj\Debug\UitService2.exe
+C:\Users\sang\source\repos\UitService2\UitService2\obj\Debug\UitService2.pdb
