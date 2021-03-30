@@ -1,0 +1,9 @@
+C:\Users\sang\source\repos\UitService3\UitService3\bin\Debug\UitService3.exe.config
+C:\Users\sang\source\repos\UitService3\UitService3\bin\Debug\UitService3.exe
+C:\Users\sang\source\repos\UitService3\UitService3\bin\Debug\UitService3.pdb
+C:\Users\sang\source\repos\UitService3\UitService3\obj\Debug\UitService3.ProjectInstaller.resources
+C:\Users\sang\source\repos\UitService3\UitService3\obj\Debug\UitService3.csproj.GenerateResource.cache
+C:\Users\sang\source\repos\UitService3\UitService3\obj\Debug\UitService3.csproj.CoreCompileInputs.cache
+C:\Users\sang\source\repos\UitService3\UitService3\obj\Debug\UitService3.exe
+C:\Users\sang\source\repos\UitService3\UitService3\obj\Debug\UitService3.pdb
+C:\Users\sang\source\repos\UitService3\UitService3\obj\Debug\UitService3.csprojAssemblyReference.cache
